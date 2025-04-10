@@ -1,0 +1,2122 @@
+{
+  "pages": {
+    "page_5": {
+      "id": "page_5",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_2"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "Resources",
+      "header": true,
+      "footer": false,
+      "bodyBackgroundColor": "var(--light)"
+    },
+    "page_8": {
+      "id": "page_8",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_3"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "Calculator",
+      "header": true,
+      "footer": false
+    },
+    "page_17": {
+      "type": "NORMAL",
+      "mode": "AUTO_SCROLL",
+      "layout": {
+        "LARGE": "layout_99"
+      },
+      "isVisible": true,
+      "id": "page_17",
+      "heightInBuilder": {
+        "LARGE": 2250,
+        "SMALL": 3771,
+        "MEDIUM": 1797
+      },
+      "isDefault": true,
+      "header": true,
+      "label": "Home",
+      "footer": false,
+      "autoOpenDialogId": "",
+      "bodyBackgroundColor": "var(--light)"
+    },
+    "page_20": {
+      "id": "page_20",
+      "mode": "AUTO_SCROLL",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_140"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "Methodology",
+      "header": true,
+      "footer": false
+    }
+  },
+  "layouts": {
+    "layout_2": {
+      "type": "FIXED",
+      "content": {
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_320",
+          "bbox": {
+            "left": "0.0%",
+            "right": "64.8%",
+            "top": "2.0%",
+            "bottom": "25.7%",
+            "width": "35.2%",
+            "height": "72.3%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_321",
+          "bbox": {
+            "left": "35.1%",
+            "right": "32.1%",
+            "top": "2.0%",
+            "bottom": "23.1%",
+            "width": "32.8%",
+            "height": "74.9%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "4": {
+          "type": "WIDGET",
+          "widgetId": "widget_322",
+          "bbox": {
+            "left": "67.9%",
+            "right": "0.7%",
+            "top": "2.0%",
+            "bottom": "48.3%",
+            "width": "31.4%",
+            "height": "49.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "layout_3": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_275",
+          "bbox": {
+            "left": "2.1%",
+            "right": "26.4%",
+            "top": "4.3%",
+            "bottom": "31.6%",
+            "width": "71.5%",
+            "height": "64.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "10": {
+          "type": "WIDGET",
+          "widgetId": "widget_285",
+          "bbox": {
+            "left": "74.1%",
+            "right": "2.5%",
+            "top": "4.3%",
+            "bottom": "56.6%",
+            "width": "23.4%",
+            "height": "39.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "13": {
+          "type": "WIDGET",
+          "widgetId": "widget_363",
+          "bbox": {
+            "left": "74.1%",
+            "right": "2.4%",
+            "top": "49.3%",
+            "bottom": "31.5%",
+            "width": "23.5%",
+            "height": "19.2%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "14": {
+          "type": "WIDGET",
+          "widgetId": "widget_364",
+          "bbox": {
+            "left": "2.1%",
+            "right": "2.5%",
+            "top": "69.2%",
+            "bottom": "0.7%",
+            "width": "95.4%",
+            "height": "30.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "15": {
+          "type": "WIDGET",
+          "widgetId": "widget_365",
+          "bbox": {
+            "left": "74.1%",
+            "right": "2.5%",
+            "top": "44.9%",
+            "bottom": "50.8%",
+            "width": "23.4%",
+            "height": "4.3%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0",
+        "13",
+        "10",
+        "14",
+        "15"
+      ]
+    },
+    "layout_5": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_328",
+          "bbox": {
+            "left": "35.7%",
+            "right": "-0.1%",
+            "top": "30.2%",
+            "bottom": "33.1%",
+            "width": "3.90625%",
+            "height": "66.66666666666667%"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "AUTO",
+              "height": "AUTO"
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": true
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_334",
+          "bbox": {
+            "left": "2.0%",
+            "right": "81.0%",
+            "top": "17.7%",
+            "bottom": "12.7%",
+            "width": "17.0%",
+            "height": "69.6%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false,
+              "height": "AUTO",
+              "width": "AUTO"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_335",
+          "bbox": {
+            "left": "55.5%",
+            "right": "0%",
+            "top": "50%",
+            "bottom": "29.3%",
+            "width": "42.3%",
+            "height": "38.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "height": "AUTO",
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": true,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "layout_99": {
+      "type": "FLOW",
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "801px",
+            "top": "548px",
+            "width": "360px",
+            "height": 324
+          },
+          "widgetId": "widget_149",
+          "setting": {
+            "heightMode": "fixed",
+            "width": "100%"
+          }
+        },
+        "10": {
+          "type": "WIDGET",
+          "widgetId": "widget_306",
+          "bbox": {
+            "left": "79px",
+            "right": "424px",
+            "top": "349px",
+            "bottom": "649px",
+            "width": "345px",
+            "height": "500px"
+          },
+          "setting": {
+            "heightMode": "fixed",
+            "width": "100%"
+          }
+        },
+        "11": {
+          "type": "WIDGET",
+          "widgetId": "widget_381",
+          "bbox": {
+            "left": "81px",
+            "right": "381px",
+            "top": "796px",
+            "bottom": "1201px",
+            "width": "300px",
+            "height": 474
+          },
+          "setting": {
+            "heightMode": "fixed"
+          }
+        }
+      },
+      "order": [
+        "10",
+        "1",
+        "11"
+      ]
+    },
+    "layout_101": {
+      "type": "ROW",
+      "content": {
+        "5": {
+          "type": "WIDGET",
+          "widgetId": "widget_366",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 5,
+            "width": 7,
+            "height": "389px"
+          }
+        },
+        "6": {
+          "type": "WIDGET",
+          "widgetId": "widget_409",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 0,
+            "width": 5,
+            "height": "350px"
+          }
+        }
+      },
+      "order": [
+        "6",
+        "5"
+      ],
+      "label": "Default",
+      "setting": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              10,
+              10,
+              0,
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      }
+    },
+    "layout_140": {
+      "type": "FLOW",
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_326",
+          "bbox": {
+            "left": "12px",
+            "right": "435px",
+            "top": "235px",
+            "bottom": "303px",
+            "width": "423px",
+            "height": 562
+          },
+          "setting": {
+            "heightMode": "fixed"
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_452",
+          "bbox": {
+            "left": "638px",
+            "right": "1061px",
+            "top": "232px",
+            "bottom": "1506px",
+            "width": "423px",
+            "height": 772
+          },
+          "setting": {
+            "heightMode": "fixed"
+          }
+        }
+      },
+      "order": [
+        "1",
+        "2"
+      ]
+    },
+    "layout_176": {
+      "content": {},
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": []
+    },
+    "layout_190": {
+      "content": {
+        "1": {
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            },
+            "offsetX": 0,
+            "offsetY": 0
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "104px"
+          },
+          "type": "WIDGET",
+          "widgetId": "widget_308"
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "1"
+      ],
+      "setting": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              10,
+              10,
+              10,
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      }
+    },
+    "layout_191": {
+      "content": {
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_151",
+          "bbox": {
+            "width": "1024px",
+            "height": "190px"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "CUSTOM",
+              "height": "AUTO"
+            },
+            "style": {
+              "alignSelf": "center"
+            }
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_350",
+          "bbox": {
+            "width": "1260px",
+            "height": 33
+          }
+        }
+      },
+      "type": "COLUMN",
+      "label": "Default",
+      "order": [
+        "2",
+        "3"
+      ],
+      "setting": {
+        "justifyContent": "flex-start",
+        "padding": {
+          "number": [
+            75,
+            0,
+            0,
+            0
+          ],
+          "unit": "px"
+        }
+      }
+    },
+    "layout_196": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_325",
+          "setting": {
+            "heightMode": "fit"
+          },
+          "bbox": {
+            "left": 0,
+            "width": 4,
+            "height": "68px"
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_429",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 4,
+            "width": 8,
+            "height": "405px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0",
+        "2"
+      ],
+      "setting": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              60,
+              10,
+              10,
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      }
+    },
+    "layout_206": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_380",
+          "bbox": {
+            "left": "3.4%",
+            "right": "3.8%",
+            "top": "5.9%",
+            "bottom": "7.3%",
+            "width": "92.80%",
+            "height": "86.8%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Default"
+    },
+    "layout_207": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_382",
+          "setting": {
+            "heightMode": "fit"
+          },
+          "bbox": {
+            "left": 0,
+            "width": 5,
+            "height": "405px"
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_394",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 5,
+            "width": 7,
+            "height": "403px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0",
+        "1"
+      ],
+      "setting": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10,
+              10,
+              10,
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      }
+    },
+    "layout_214": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_408",
+          "bbox": {
+            "left": "2.2%",
+            "right": "2.7%",
+            "top": "2.6%",
+            "bottom": "3.6%",
+            "width": "95.1%",
+            "height": "93.8%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Default"
+    },
+    "layout_215": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_406",
+          "bbox": {
+            "left": "3.3%",
+            "right": "1.6%",
+            "top": "3.0%",
+            "bottom": "0.0%",
+            "width": "95.1%",
+            "height": "97.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Default"
+    },
+    "layout_223": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_311",
+          "bbox": {
+            "left": "4.0%",
+            "right": "0.0%",
+            "top": "4.3%",
+            "bottom": "8.3%",
+            "width": "96.0%",
+            "height": "87.4%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Default"
+    },
+    "layout_227": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_427",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "67.0%",
+            "width": "100.0%",
+            "height": "33.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_442",
+          "bbox": {
+            "left": "1.2%",
+            "right": "6.8%",
+            "top": "18.1%",
+            "bottom": "73.4%",
+            "width": "92.0%",
+            "height": "8.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_443",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "59.2%",
+            "bottom": "-0.5%",
+            "width": "100.0%",
+            "height": "41.3%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_444",
+          "bbox": {
+            "left": "0.0%",
+            "right": "2.2%",
+            "top": "28.2%",
+            "bottom": "62.2%",
+            "width": "97.8%",
+            "height": "9.6%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "4": {
+          "type": "WIDGET",
+          "widgetId": "widget_445",
+          "bbox": {
+            "left": "28.5%",
+            "right": "28.6%",
+            "top": "37.8%",
+            "bottom": "57.5%",
+            "width": "42.9%",
+            "height": "4.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "5": {
+          "type": "WIDGET",
+          "widgetId": "widget_446",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "47.2%",
+            "bottom": "43.6%",
+            "width": "100.0%",
+            "height": "9.2%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "2",
+        "0",
+        "1",
+        "3",
+        "4",
+        "5"
+      ],
+      "label": "Default"
+    },
+    "layout_232": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_447",
+          "setting": {
+            "heightMode": "fit"
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "1274px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "setting": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              10,
+              10,
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      }
+    },
+    "layout_233": {
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_334",
+          "bbox": {
+            "left": "2.0%",
+            "right": "81.0%",
+            "top": "17.7%",
+            "bottom": "12.7%",
+            "width": "17.0%",
+            "height": "69.6%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false,
+              "height": "AUTO",
+              "width": "AUTO"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_335",
+          "bbox": {
+            "left": "55.5%",
+            "right": "0%",
+            "top": "50%",
+            "bottom": "29.3%",
+            "width": "42.3%",
+            "height": "38.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "height": "AUTO",
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": true,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "1",
+        "2"
+      ]
+    },
+    "layout_234": {
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_334",
+          "bbox": {
+            "left": "2.0%",
+            "right": "81.0%",
+            "top": "17.7%",
+            "bottom": "12.7%",
+            "width": "17.0%",
+            "height": "69.6%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false,
+              "height": "AUTO",
+              "width": "AUTO"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_335",
+          "bbox": {
+            "left": "55.5%",
+            "right": "0%",
+            "top": "50%",
+            "bottom": "29.3%",
+            "width": "42.3%",
+            "height": "38.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "height": "AUTO",
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": true,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "1",
+        "2"
+      ]
+    }
+  },
+  "exbVersion": "1.16.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/dark/",
+  "forBuilderAttributes": {
+    "lockLayout": false,
+    "viewPortSize": {
+      "LARGE": {
+        "width": 1280,
+        "height": 800
+      }
+    }
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_149": {
+      "uri": "widgets/layout/row/",
+      "version": "1.16.0",
+      "label": "Block 2",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              80,
+              10,
+              80,
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_149",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_101"
+        }
+      }
+    },
+    "widget_151": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 3",
+      "config": {
+        "text": "<h1 style=\"text-align: center;\"><strong style=\"font-size: 60px; text-shadow: rgba(0, 0, 0, 0.4) -4px -3px 4px, rgba(0, 0, 0, 0.2) -2px -2px 0px; color: var(--dark);\">﻿MetroWage</strong></h1>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true,
+          "color": "var(--dark)"
+        },
+        "tooltip": {
+          "name": "",
+          "parts": [
+            {
+              "type": "STRING",
+              "exp": "\"\""
+            }
+          ]
+        }
+      },
+      "id": "widget_151",
+      "style": {
+        "background": {
+          "color": "",
+          "fillType": "fill",
+          "image": {
+            "url": "",
+            "originalUrl": "",
+            "fileName": null,
+            "originalName": null,
+            "imgSourceType": "BY_URL"
+          }
+        },
+        "boxShadow": {
+          "presetStyle": "shadow-none"
+        }
+      }
+    },
+    "widget_275": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.16.0",
+      "label": "Map 2",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": true,
+          "canNavigation": true
+        },
+        "isUseCustomMapState": true,
+        "initialMapDataSourceID": "dataSource_5",
+        "initialMapState": {
+          "viewPoint": {
+            "rotation": 0,
+            "scale": 577790.5542885,
+            "targetGeometry": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "x": -13684362.898757778,
+              "y": 6316244.754009756
+            }
+          },
+          "extent": {
+            "spatialReference": {
+              "latestWkid": 3857,
+              "wkid": 102100
+            },
+            "xmin": -13736951.574217955,
+            "ymin": 6281313.032083448,
+            "xmax": -13631774.223297602,
+            "ymax": 6351176.4759360645
+          },
+          "rotation": 0,
+          "viewType": "2d"
+        },
+        "scaleRange": null
+      },
+      "id": "widget_275",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_176"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_5",
+          "mainDataSourceId": "dataSource_5"
+        }
+      ],
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      }
+    },
+    "widget_285": {
+      "uri": "widgets/arcgis/legend/",
+      "version": "1.16.0",
+      "label": "Legend",
+      "config": {
+        "cardStyle": false,
+        "style": {
+          "useCustom": false
+        },
+        "legendMode": "show-visible"
+      },
+      "id": "widget_285",
+      "useMapWidgetIds": [
+        "widget_275"
+      ]
+    },
+    "widget_306": {
+      "uri": "widgets/layout/row/",
+      "version": "1.16.0",
+      "label": "VAN GIF",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_306",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_190"
+        }
+      },
+      "style": {
+        "background": {
+          "fillType": "fill",
+          "image": {
+            "url": "${appResourceUrl}/images/background_setting/1741819013368.jpg",
+            "originalUrl": "${appResourceUrl}/images/background_setting/1741819013368.jpg",
+            "fileName": "1741819013368.jpg",
+            "originalName": "pexels-adi-k-182036-2382868.jpg",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/jpeg",
+            "originalId": "1741819013368",
+            "isUseCompress": false,
+            "originalWidth": 5999,
+            "originalHeight": 3360
+          }
+        }
+      }
+    },
+    "widget_308": {
+      "uri": "widgets/layout/column/",
+      "version": "1.16.0",
+      "label": "Column 22",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              75,
+              0,
+              0,
+              0
+            ],
+            "unit": "px"
+          },
+          "justifyContent": "flex-start",
+          "alignItems": "stretch"
+        }
+      },
+      "id": "widget_308",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_191"
+        }
+      }
+    },
+    "widget_311": {
+      "uri": "widgets/common/embed/",
+      "version": "1.16.0",
+      "label": "Embed 7",
+      "config": {
+        "embedType": "url",
+        "expression": "<p>https://youtu.be/g2IKT0-4J94</p>",
+        "embedCode": "",
+        "enableLabel": false,
+        "autoRefresh": true
+      },
+      "id": "widget_311",
+      "useDataSources": []
+    },
+    "widget_320": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 27",
+      "config": {
+        "text": "<h2>Data Sources:</h2><p><br></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Primary Rental Median Price 2024(Canada Mortgage and Housing Corporation): <a href=\"https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/Table?TableId=1.10.1&amp;GeographyId=2410&amp;GeographyTypeId=3&amp;DisplayAs=Table&amp;GeograghyName=Vancouver\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/Table?TableId=1.10.1&amp;GeographyId=2410&amp;GeographyTypeId=3&amp;DisplayAs=Table&amp;GeograghyName=Vancouver</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Child Care Map Data (OpenBC): <a href=\"https://catalogue.data.gov.bc.ca/dataset/child-care-map-data\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://catalogue.data.gov.bc.ca/dataset/child-care-map-data</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Metro Vancouver Shapefile (District of North Vancouver Open Data Portal): <a href=\"https://geoweb.dnv.org/data/\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://geoweb.dnv.org/data/</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Census Profile (Open Data Vancouver): <a href=\"https://opendata.vancouver.ca/explore/dataset/census-local-area-profiles-2016/information/\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://opendata.vancouver.ca/explore/dataset/census-local-area-profiles-2016/information/</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>BC Utility Bills (Primary Data compiled by MovingWaldo from Utility companies): <a href=\"https://www.movingwaldo.com/where-to-live/bc-utility-bills-how-much-does-utilities-cost/\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://www.movingwaldo.com/where-to-live/bc-utility-bills-how-much-does-utilities-cost/</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Consumer Price Index (BC Data Catalogue): <a href=\"https://catalogue.data.gov.bc.ca/dataset/2c75c627-3eb6-41ee-bb54-7b089eade484\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://catalogue.data.gov.bc.ca/dataset/2c75c627-3eb6-41ee-bb54-7b089eade484</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Vehicle Cost (BCAA): <a href=\"https://carcosts.caa.ca/results/british-columbia/suv_mainstream/ice?monthly_insurance_cost=0&amp;monthly_car_payment=0\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://carcosts.caa.ca/results/british-columbia/suv_mainstream/ice?monthly_insurance_cost=0&amp;monthly_car_payment=0</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Transit Cost (Translink): <a href=\"https://www.translink.ca/transit-fares/pricing-and-fare-zones\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://www.translink.ca/transit-fares/pricing-and-fare-zones</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Socioeconomic Data (Stats Canada): <a href=\"https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2022004-eng.htm\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2022004-eng.htm</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>BC Tax Brackets (TurboTax): <a href=\"https://turbotax.intuit.ca/tax-resources/british-columbia-income-tax-calculator?srsltid=AfmBOopuGUtPADDlKm6oCvghMEEH5ig3TXOZDHiMMTRET9uKoqAIdUuh\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://turbotax.intuit.ca/tax-resources/british-columbia-income-tax-calculator?srsltid=AfmBOopuGUtPADDlKm6oCvghMEEH5ig3TXOZDHiMMTRET9uKoqAIdUuh</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Groceries (Crowdsourced data from Numbeo): <a href=\"https://www.numbeo.com/food-prices/in/Vancouver\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://www.numbeo.com/food-prices/in/Vancouver</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Video: <a href=\"http://www.pexels.com\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">http://www.pexels.com</a></li></ol>"
+      },
+      "id": "widget_320"
+    },
+    "widget_321": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 28",
+      "config": {
+        "text": "<h2>Additional Housing Resources:</h2><p><br></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Housing | Metro Vancouver: <a href=\"https://metrovancouver.org/services/housing\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://metrovancouver.org/services/housing</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Housing | City of Burnaby: <a href=\"https://www.burnaby.ca/our-city/programs-and-policies/housing\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://www.burnaby.ca/our-city/programs-and-policies/housing</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Tri-Cities Homelessness &amp; Housing Task Group « Coquitlam – Port Coquitlam – Port Moody: <a href=\"https://tricitieshomelessness.ca/\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://tricitieshomelessness.ca/</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Housing | City of Vancouver: <a href=\"https://vancouver.ca/people-programs/housing-and-homelessness.aspx\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://vancouver.ca/people-programs/housing-and-homelessness.aspx</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Finding Affordable Housing - City of Richmond, BC: <a href=\"https://www.richmond.ca/culture/social/affordable-housing/FindingAffordableHousing.htm\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://www.richmond.ca/culture/social/affordable-housing/FindingAffordableHousing.htm</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Housing Our Future | City of Delta: <a href=\"https://www.delta.ca/building-development/housing-our-future\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://www.delta.ca/building-development/housing-our-future</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Housing &amp; Homelessness | City of Surrey: <a href=\"https://www.surrey.ca/about-surrey/housing-homelessness\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://www.surrey.ca/about-surrey/housing-homelessness</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Housing - Township of Langley: <a href=\"https://www.tol.ca/en/the-township/housing.aspx\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://www.tol.ca/en/the-township/housing.aspx</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>YWCA Housing | YWCA Metro Vancouver: <a href=\"https://ywcavan.org/programs/housing\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://ywcavan.org/programs/housing</a></li></ol>"
+      },
+      "id": "widget_321"
+    },
+    "widget_322": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 29",
+      "config": {
+        "text": "<h2>Additional Financial Resources:</h2><p><br></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Budgets and Financial Plans | Metro Vancouver: <a href=\"https://metrovancouver.org/about-us/budgets-and-financial-plans\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://metrovancouver.org/about-us/budgets-and-financial-plans</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Support for Single Moms | YWCA Metro Vancouver: <a href=\"https://ywcavan.org/programs/support-single-moms\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://ywcavan.org/programs/support-single-moms</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Vancouver Affordability Guide: <a href=\"https://vancouvereconomic.com/affordability-guide/\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://vancouvereconomic.com/affordability-guide/</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Free and low cost food programs — City of Vancouver Open Data Portal: <a href=\"https://opendata.vancouver.ca/explore/dataset/free-and-low-cost-food-programs/table/?sort=program_name\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://opendata.vancouver.ca/explore/dataset/free-and-low-cost-food-programs/table/?sort=program_name</a></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>$10 a Day ChildCareBC Centres by School Regions - Province of British Columbia: <a href=\"https://www2.gov.bc.ca/gov/content/family-social-supports/caring-for-young-children/childcarebc-programs/10-a-day-childcarebc-centres/10-a-day-centres-list\" target=\"_self\" data-uniqueid=\"\" data-dsid=\"\" data-link=\"null\">https://www2.gov.bc.ca/gov/content/family-social-supports/caring-for-young-children/childcarebc-programs/10-a-day-childcarebc-centres/10-a-day-centres-list</a></li></ol>",
+        "tooltip": {
+          "name": "",
+          "parts": [
+            {
+              "type": "STRING",
+              "exp": "\"\""
+            }
+          ]
+        }
+      },
+      "id": "widget_322"
+    },
+    "widget_325": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 31",
+      "config": {
+        "text": "<h2>Redefining the Living Wage:</h2><p><br></p><p>The living wage metric of the app was inspired by MIT’s Living Wage Calculator.</p><p><br></p><p>The metric is based on a 40 hour work week for the whole year (52 weeks).</p><p><br></p><p>Our living wage calculations contain the following factors:</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Median monthly <strong>rent</strong> cost, dependent on household type and city.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Average monthly cost of <strong>transportation</strong> in Metro Vancouver, dependent on method of transportation (public, personal vehicle).</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Average cost of <strong>child care </strong>in Metro Vancouver (if the household has children).</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Average monthly cost of <strong>utilities</strong> in BC, taken as an average of all utilities.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Average monthly cost of <strong>groceries</strong> per adult in Metro Vancouver (assuming a 2100 daily caloric intake).</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Average monthly cost of <strong>household items</strong> and personal hygiene in Metro Vancouver.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Average monthly cost of <strong>internet and phone </strong>plans in BC Flat monthly cost of $100.</li></ol>"
+      },
+      "id": "widget_325"
+    },
+    "widget_326": {
+      "uri": "widgets/layout/row/",
+      "version": "1.16.0",
+      "label": "Block 38",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_326",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_196"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--light-100)",
+          "fillType": "fill"
+        }
+      }
+    },
+    "widget_328": {
+      "uri": "widgets/common/menu/",
+      "version": "1.16.0",
+      "label": "Burger Menu",
+      "config": {
+        "type": "drawer",
+        "standard": {
+          "submenuMode": "static"
+        }
+      },
+      "id": "widget_328"
+    },
+    "widget_334": {
+      "uri": "widgets/common/image/",
+      "version": "1.16.0",
+      "label": "Image 13",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_334/1741852812510.png",
+            "originalUrl": "${appResourceUrl}/images/widget_334/1741852812510.png",
+            "fileName": "1741852812510.png",
+            "originalName": "Solutions_For_Us.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1741852812510",
+            "isUseCompress": false,
+            "originalWidth": 217,
+            "originalHeight": 55
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_334"
+    },
+    "widget_335": {
+      "uri": "widgets/common/menu/",
+      "version": "1.16.0",
+      "label": "Large Screen Menu",
+      "config": {
+        "type": "nav",
+        "vertical": false,
+        "menuStyle": "underline",
+        "advanced": true,
+        "variant": {
+          "item": {
+            "default": {
+              "size": "16px"
+            },
+            "active": {
+              "color": "#dd2e44"
+            }
+          }
+        }
+      },
+      "id": "widget_335"
+    },
+    "widget_350": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 32",
+      "config": {
+        "text": "<h2 style=\"line-height: 1; text-align: center;\"><span style=\"text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 6px;\">The future is </span><span style=\"text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 6px; color: var(--primary);\">AFFORDABLE</span><span style=\"text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 6px;\"> and </span><span style=\"text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 6px; color: var(--primary);\">SUSTAINABLE</span><span style=\"text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 6px;\"> with careful consideration!</span></h2>"
+      },
+      "id": "widget_350"
+    },
+    "widget_363": {
+      "uri": "widgets/selector/",
+      "version": "1.16.0",
+      "label": "Selector",
+      "config": {
+        "exampleConfigProperty": "test"
+      },
+      "id": "widget_363",
+      "useMapWidgetIds": [
+        "widget_275"
+      ]
+    },
+    "widget_364": {
+      "uri": "widgets/income/",
+      "version": "1.16.0",
+      "label": "Income Calculator",
+      "config": {
+        "exampleConfigProperty": "test"
+      },
+      "id": "widget_364",
+      "style": {
+        "background": {
+          "color": "var(--light-300)",
+          "fillType": "fill"
+        }
+      },
+      "useMapWidgetIds": [
+        "widget_275"
+      ]
+    },
+    "widget_365": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 34",
+      "config": {
+        "text": "<h6><span style=\"font-size: 16px;\">Choose Transport &amp; Household Type:</span></h6>"
+      },
+      "id": "widget_365"
+    },
+    "widget_366": {
+      "uri": "widgets/common/card/",
+      "version": "1.16.0",
+      "label": "Card",
+      "config": {
+        "DEFAULT": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0",
+              "offsetY": "0",
+              "blur": "0",
+              "spread": "0",
+              "color": "var(--dark-100)"
+            }
+          }
+        },
+        "itemStyle": "STYLE10",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isInitialed": true,
+        "isOpenAdvabceSetting": false,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_366",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_206"
+        }
+      }
+    },
+    "widget_380": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 35",
+      "config": {
+        "text": "<h2><span style=\"letter-spacing: 0px;\">What is MetroWage?</span></h2><p><br></p><p><strong style=\"color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: medium; letter-spacing: 0px;\">MetroWage</strong><span style=\"color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: medium; letter-spacing: 0px;\">, a </span><u style=\"color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: medium; letter-spacing: 0px;\">living wage calculator</u><strong style=\"color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: medium; letter-spacing: 0px;\"> </strong><span style=\"color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: medium; letter-spacing: 0px;\">for </span><u style=\"color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: medium; letter-spacing: 0px;\">Metro Vancouver</u><span style=\"color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: medium; letter-spacing: 0px;\">, aims to help people understand the cost of living across the metropolitan area by providing detailed, location-specific insights. </span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: medium; letter-spacing: 0px;\">While the traditional \"living wage\" metric focuses on a two-adult, two-child household, our tool expands this by considering six distinct household types, different transportation options, and breaking down living costs for each municipality. </span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: medium; letter-spacing: 0px;\">This geovisualization aims to give families and individuals a clearer view of affordability in different regions, supporting more informed decisions about where to live or rent.</span>﻿</p>"
+      },
+      "id": "widget_380"
+    },
+    "widget_381": {
+      "uri": "widgets/layout/row/",
+      "version": "1.16.0",
+      "label": "Block 39",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_381",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_207"
+        }
+      }
+    },
+    "widget_382": {
+      "uri": "widgets/common/card/",
+      "version": "1.16.0",
+      "label": "Card 2",
+      "config": {
+        "DEFAULT": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0",
+              "offsetY": "0",
+              "blur": "0",
+              "spread": "0",
+              "color": "var(--dark-100)"
+            }
+          }
+        },
+        "itemStyle": "STYLE10",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isInitialed": true,
+        "isOpenAdvabceSetting": false,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_382",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_215"
+        }
+      }
+    },
+    "widget_394": {
+      "uri": "widgets/common/card/",
+      "version": "1.16.0",
+      "label": "Card 3",
+      "config": {
+        "DEFAULT": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0",
+              "offsetY": "0",
+              "blur": "0",
+              "spread": "0",
+              "color": "var(--dark-100)"
+            }
+          }
+        },
+        "itemStyle": "STYLE10",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isInitialed": true,
+        "isOpenAdvabceSetting": false,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_394",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_214"
+        }
+      }
+    },
+    "widget_406": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 36",
+      "config": {
+        "text": "<h2>Why MetroWage?</h2><p><br></p><h6>Because the app is:</h6><p><br></p><p><strong>Family-focused</strong>: Highlights affordable and suitable living options for families in Metro Vancouver, using geographic data to visualize expenses.</p><p><br></p><p><strong>Interactive</strong>: Engages users with dynamic widgets to deepen their understanding of living wage data.</p><p><br></p><p><strong>Visually engaging</strong>: Transforms living wage information from static lists into geographic maps and customizable visualizations.</p><p><br></p><p><strong>Insightful</strong>: Guides families and individuals in identifying regions that best align with their living expenses and needs.</p><p><br></p><p><strong>Personalized</strong>: Features a \"calculator\" that adjusts to each user's financial situation, tailoring insights to their household setup.</p><p><br></p><p><strong>Sustainable</strong>: Incorporates transportation choices—public transit or personal vehicle—into living cost calculations, highlighting potential savings and promoting eco-friendly alternatives.</p>"
+      },
+      "id": "widget_406"
+    },
+    "widget_408": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 37",
+      "config": {
+        "text": "<h2>How to Navigate MetroWage:</h2><p><br></p><p>The top the page contains four navigation elements: <strong>Home</strong>, <strong>Calculator</strong>, <strong>Methodology</strong>, and <strong>Resources</strong>. </p><p>Each option corresponds to a page in our app, allowing you to easily navigate by clicking on the respective header.</p><p><br></p><p>Below are some summaries of what each page contains:</p><p><br></p><p><strong style=\"font-size: 13px;\">Home</strong>: The landing page you are currently at! This page contains the introduction and background information of the app, and provides everything you need to know to understand what this app is about.</p><p><br></p><p><strong>Calculator</strong>: The page where the main portion of the app resides. The page itself contains a map to see the living wages required for each city and household type, as well as the calculator itself, situated right below the map. You can enter your estimated income in the calculator to see a list of the most budget-friendly cities for your household.</p><p><br></p><p><strong>Methodology</strong>: This page explains the methods and justifications behind the calculation methods, and the data utilized in the app.</p><p><br></p><p><strong>Resources</strong>: This page contains the sources used in the creation of this app, as well as any supporting resources that you may find useful for understanding the housing markets and financial landscapes of Metro Vancouver.</p>"
+      },
+      "id": "widget_408"
+    },
+    "widget_409": {
+      "uri": "widgets/common/card/",
+      "version": "1.16.0",
+      "label": "Card 4",
+      "config": {
+        "DEFAULT": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0",
+              "offsetY": "0",
+              "blur": "0",
+              "spread": "0",
+              "color": "var(--dark-100)"
+            }
+          }
+        },
+        "itemStyle": "STYLE10",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isInitialed": true,
+        "isOpenAdvabceSetting": false,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_409",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_223"
+        }
+      }
+    },
+    "widget_427": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 38",
+      "config": {
+        "text": "<h2>﻿Calculating the Living Wage:</h2><p><br></p><p>We formalized the living wage calculations into an equation, to represent the monthly costs associated with each city, household type, and transportation method:</p><p><br></p><p><br></p><p><br></p>"
+      },
+      "id": "widget_427",
+      "style": {
+        "background": {
+          "color": "var(--light-100)",
+          "fillType": "fill"
+        }
+      }
+    },
+    "widget_429": {
+      "uri": "widgets/common/card/",
+      "version": "1.16.0",
+      "label": "Card 5",
+      "config": {
+        "DEFAULT": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "border": {
+                "type": "solid",
+                "color": "var(--light-400)",
+                "width": "0px"
+              }
+            },
+            "background": {
+              "color": "var(--light)",
+              "fillType": "fill",
+              "image": {
+                "url": ""
+              }
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": "var(--light)"
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0",
+              "offsetY": "0",
+              "blur": "0",
+              "spread": "0",
+              "color": "var(--dark-100)"
+            }
+          }
+        },
+        "itemStyle": "STYLE10",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isInitialed": true,
+        "isOpenAdvabceSetting": false,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_429",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_227"
+        }
+      }
+    },
+    "widget_442": {
+      "uri": "widgets/common/image/",
+      "version": "1.16.0",
+      "label": "Image 14",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_441/1741986924168.png",
+            "originalUrl": "${appResourceUrl}/images/widget_441/1741986924168.png",
+            "fileName": "1741986924168.png",
+            "originalName": "Equation.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1741986924168",
+            "isUseCompress": false,
+            "originalWidth": 936,
+            "originalHeight": 66
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_442"
+    },
+    "widget_443": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 39",
+      "config": {
+        "text": "<h2>Calculating Income Tax and Affordability:'</h2><p><br></p><p>The app contains an income tax calculator, that allows the user to input their yearly income or hourly wage (which would be scaled up to a yearly salary), to receive an estimate of their post-taxed yearly salary and/or hourly wage. The income taxation is modelled after the federal and provincial (BC) tax brackets shown on TurboTax’s 2024 tax calculator web page.</p><p><br></p><p>Using the determined net income representations from the income tax calculator, the “affordability” of each city is calculated by taking the difference between the user’s estimated hourly income and the living wage of each city. Any negative results from this operation are discarded, as they indicate the user cannot afford to live in the respective city. The remaining results are then ranked in descending order and displayed in the \"Affordable Cities Ranked\" section of the custom widget, showing the user their hourly savings for each city.</p>"
+      },
+      "id": "widget_443",
+      "style": {
+        "background": {
+          "color": "var(--light-100)",
+          "fillType": "fill"
+        }
+      }
+    },
+    "widget_444": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 40",
+      "config": {
+        "text": "<p>Where “L” is a living wage function of “h” (household type), “c” (city), and “t” (transportation mode) of the desired living wage parameters. “OtherCosts” represents the remaining costs associated with the living wage:﻿</p>"
+      },
+      "id": "widget_444"
+    },
+    "widget_445": {
+      "uri": "widgets/common/image/",
+      "version": "1.16.0",
+      "label": "Image 15",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_445/1741987468858.png",
+            "originalUrl": "${appResourceUrl}/images/widget_445/1741987468858.png",
+            "fileName": "1741987468858.png",
+            "originalName": "othercosts.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1741987468858",
+            "isUseCompress": false,
+            "originalWidth": 506,
+            "originalHeight": 72
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_445"
+    },
+    "widget_446": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 41",
+      "config": {
+        "text": "<p>…which can be represented as constants. We then utilized this equation to calculate the living wage associated with each combination of household type, city, and mode of transportation.</p>"
+      },
+      "id": "widget_446",
+      "style": {
+        "background": {
+          "color": "var(--light-100)",
+          "fillType": "fill"
+        }
+      }
+    },
+    "widget_447": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Text 42",
+      "config": {
+        "text": "<h2>Justifying our Data:</h2><p><br></p><p><strong>Median Rent:</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Access to rental data consisted of different bedroom sizes for regions across Metro Vancouver.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Median values in the data contained the most consistent and complete values meaning regions with any missing data could be accurately imputed.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>While data was available for neighbourhoods and cities, only the city data was used for consistency across the region.</li></ol><p><br></p><p><strong>Transportation</strong>:</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Costs for transportation were divided into two different categories of Transit or Car.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Transit costs were derived from a Monthly-Fare pass that covered 1 zone.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Households with Children concurred the Child Monthly-Fare pass for associated Children.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>The one zone fare was selected due to the zone sizes of the Metropolitan area covering wide ranges.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Car costs were derived from the average cost of a 2024 Toyota Corolla Cross, taking into account gas, insurance, and repair costs.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>These features were selected to represent a cheaper car that can be associated with families or individuals.</li></ol><p><br></p><p><strong>Childcare Price and Accessibility:</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Childcare prices were gathered from a Westcoast Parent Services Survey for the Province of British Columbia and City of Vancouver.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>To calculate the cost used we took the average of the two medians of the categories of “Full Fee” and “Reduced Fee” to ensure a calculation that is more generalized for families using childcare.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>We looked into adding an accessibility component, which involved a 2km buffer of the 2,000+ childcare locations in Metro Vancouver, but found childcare accessibility was not an issue this calculation would focus on.</li></ol><p><br></p><p><strong>Utilities</strong>:</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Only regulated entities are permitted to sell and manage the distribution of utilities across the province.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>The average cost of water, gas, and electricity was used in the calculation.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>This gave a better representation of costs due to the varying price of electricity during times of high demand across the span of a day.</li></ol><p><br></p><p><strong>Groceries</strong>:</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Cost of groceries were taken from a crowdsourced website (NUMBEO citation) of general grocery items on a 2,100 calorie daily intake.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Households with Children associated grocery costs of 75% of the adult grocery cost (based on calculations of average consumption of Children under the age of 13).</li></ol><p><br></p><p><strong>Household Items</strong>:</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Household and hygiene items were derived from a crowdsourced dataset (NUMBEO) from the Metropolitan Vancouver, where the average cost was taken for these categories.</li></ol><p><br></p><p><strong>Internet and Phone</strong>:</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Depending on the plan required by an individual the cost could vary.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>An average value was used for both internet and phone to reflect the price across BC.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>The Internet had the largest average fees derived from DSL, Cable, and Fibre Optic.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>$100 Flat Fee: The flat additional cost of $100 was to be associated with savings.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Numbers associated on the internet suggest the average Canadian saves close to $100 per month.</li></ol>"
+      },
+      "id": "widget_447"
+    },
+    "widget_452": {
+      "uri": "widgets/layout/row/",
+      "version": "1.16.0",
+      "label": "Block 40",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_452",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_232"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--light-100)",
+          "fillType": "fill"
+        }
+      }
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "messageConfigs": {},
+  "attributes": {
+    "portalUrl": "https://simonfraseru.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "",
+    "title": "Esri App Challenge 2025 ExperienceBuilder mar13_0143",
+    "description": null,
+    "type": "Web Experience",
+    "thumbnail": null
+  },
+  "sharedThemeVariables": {
+    "header": {},
+    "body": {},
+    "button": {},
+    "logo": {
+      "small": "https://www.sfu.ca/content/sfu/communicators-toolkit/tools/brand-tools/jcr:content/main_content/image.img.640.medium.jpg/1524162120271.jpg",
+      "link": "http://www.sfu.ca"
+    }
+  },
+  "dataSources": {
+    "dataSource_5": {
+      "id": "dataSource_5",
+      "type": "WEB_MAP",
+      "sourceLabel": "Vancouver Living Wage Map",
+      "itemId": "8afa22e7e4e3481e843627aa1499ea87",
+      "portalUrl": "https://simonfraseru.maps.arcgis.com"
+    }
+  },
+  "originExbVersion": "1.16.0",
+  "pageStructure": [
+    {
+      "page_17": []
+    },
+    {
+      "page_8": []
+    },
+    {
+      "page_20": []
+    },
+    {
+      "page_5": []
+    }
+  ],
+  "customTheme": {
+    "colors": {
+      "primary": "#dd2e44"
+    }
+  },
+  "header": {
+    "layout": {
+      "LARGE": "layout_5",
+      "SMALL": "layout_233",
+      "MEDIUM": "layout_234"
+    },
+    "height": {
+      "LARGE": "75px"
+    },
+    "backgroundColor": "#282828",
+    "sticky": true
+  },
+  "timestamp": 1741996466642,
+  "utilities": {},
+  "publishTimestamp": 1741990105205
+}

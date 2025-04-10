@@ -1,0 +1,204 @@
+Data obtained from the City of Hamilton Open Data Portal 
+
+HSR Transit Bus Routes 
+======================
+
+About: https://open.hamilton.ca/datasets/83adc19c9e9941d38891d30715da80e4_1/explore
+Licence: https://www.hamilton.ca/city-council/data-maps/open-data/open-data-licence-terms-and-conditions
+
+HSR Transit Bus Stops
+=====================
+
+About: https://open.hamilton.ca/datasets/83adc19c9e9941d38891d30715da80e4_1/explore
+Licence : https://www.hamilton.ca/city-council/data-maps/open-data/open-data-licence-terms-and-conditions
+
+HSR City Boundary 
+=================
+
+About: https://open.hamilton.ca/datasets/dd522e1245b1461887d998c6c17edff7_13/explore?location=43.260094%2C-79.934380%2C9.65
+Licence: https://www.hamilton.ca/city-council/data-maps/open-data/open-data-licence-terms-and-conditions
+
+HSR Street Centrelines
+======================
+
+About: https://open.hamilton.ca/datasets/cf0d7ce5410a4584886e411dd916e108_14/explore
+Licence : https://www.hamilton.ca/city-council/data-maps/open-data/open-data-licence-terms-and-conditions
+
+HSR Civic Addresses:
+====================
+About: https://open.hamilton.ca/datasets/89a6c5bf4ee44fc89719584a8f78d0b2_1/explore?location=43.258847%2C-79.933463%2C9.66
+Licence: https://www.hamilton.ca/city-council/data-maps/open-data/open-data-licence-terms-and-conditions
+
+Data obtained from the City of Victoria Open Data Portal
+
+Transit Routes
+==============
+
+About: https://opendata.victoria.ca/datasets/ad5dfc89eb5943568b3059fbd3be2ba0_34/explore?location=48.426204%2C-123.355987%2C13.64
+Licence: https://opendata.victoria.ca/pages/open-data-licence
+
+Transit Stops 
+=============
+
+About: https://www.bctransit.com/open-data/
+Licence: https://www.bctransit.com/open-data/terms-of-use/
+
+City Boundary 
+=============
+About: https://opendata.victoria.ca/datasets/VicMap::city-boundary/explore?location=48.426296%2C-123.351878%2C13.22
+Licence: https://opendata.victoria.ca/pages/open-data-licence
+
+Street Network
+==============
+
+About: https://opendata.victoria.ca/datasets/fe30bdcde7464717b07c9be7050a7f45_0/explore
+Licence: https://opendata.victoria.ca/pages/open-data-licence
+
+Civic Addresses
+===============
+
+About: https://opendata.victoria.ca/datasets/address-labels/about
+Licence: https://opendata.victoria.ca/pages/open-data-licence
+
+Data obtained from Halifax Regional Municipality Data, Mapping & Analytics Hub
+
+Transit Bus Routes
+==================
+
+About: https://data-hrm.hub.arcgis.com/datasets/69adb7a88a4e4343bf5ae7c381f2d9af_0/explore?location=44.622051%2C-63.614624%2C11.64
+Licence: https://data-hrm.hub.arcgis.com/pages/open-data-licence
+
+Bus Stops
+=========
+
+About: https://catalogue-hrm.opendata.arcgis.com/datasets/29de9d04a3454e11a1e0a1f78a27bc07_0/explore
+Licence: https://data-hrm.hub.arcgis.com/pages/open-data-licence
+
+Pre-Amalgamation Boundaries 
+===========================
+
+About: https://catalogue-hrm.opendata.arcgis.com/datasets/f22b1a34e0e44291a01b9e797c905fcd_0/explore
+Licence: https://data-hrm.hub.arcgis.com/pages/open-data-licence
+
+Street Centrelines
+==================
+
+About: https://data-hrm.hub.arcgis.com/datasets/560fec412dd044b08ae52a8575a215d4_0/explore?location=44.853116%2C-63.136348%2C9.85
+Licence: https://data-hrm.hub.arcgis.com/pages/open-data-licence
+
+Civic Addresses
+===============
+
+About: https://catalogue-hrm.opendata.arcgis.com/datasets/2bc8323870fe44eab50630404713be6a_0/explore?location=44.851678%2C-63.162493%2C9.82
+Licence: https://data-hrm.hub.arcgis.com/pages/open-data-licence
+
+Data obtained from Statistics Canada Census Program Viewer
+
+Halifax 2021 Population Density per Square-Kilometre by Dissemination Area
+==========================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Hamilton 2021 Population Density per Square-Kilometre by Dissemination Area
+===========================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Victoria 2021 Population Density per Square-Kilometre by Dissemination Area
+===========================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+
+Halifax 2021 Average Commuting Duration by Dissemination Area
+=============================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Hamilton 2021 Average Commuting Duration by Dissemination Area
+==============================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Victoria 2021 Average Commuting Duration by Dissemination Area
+==============================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Halifax 2020 Total Median Household Income by Dissemination Area
+================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Hamilton 2020 Total Median Household Income by Dissemination Area
+=================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Victoria 2020 Total Median Household Income by Dissemination Area
+=================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Halifax 2021 Percentage of Commuters using Public Transport by Dissemination Area
+==================================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Hamilton 2021 Percentage of Commuters using Public Transport by Dissemination Area
+==================================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Victoria 2021 Percentage of Commuters using Public Transport by Dissemination Area
+==================================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Halifax 2021 Percentage of Commuters using Active Transport by Dissemination Area
+=================================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Hamilton 2021 Percentage of Commuters using Active Transport by Dissemination Area
+==================================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Victoria 2021 Percentage of Commuters using Active Transport by Dissemination Area
+==================================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Halifax 2021 Employment Rate, 15 Years and Over by Dissemination Area
+=====================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Hamilton 2021 Employment Rate, 15 Years and Over by Dissemination Area
+======================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
+
+Victoria 2021 Employment Rate, 15 Years and Over by Dissemination Area
+======================================================================
+
+About: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/dv-vd/cpdv-vdpr/index-eng.cfm
+Licence: https://www.statcan.gc.ca/en/reference/licence
