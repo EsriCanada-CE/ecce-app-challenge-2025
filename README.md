@@ -6,4 +6,4 @@ For 2025, teams participating the challenge were tasked to create an app that ad
 
 ## App Challenge Results:
 
-Judging has begun. Final results are anticipated to be announced on or around May 5th
+Judging has begun. Final results are anticipated to be announced on or around May 5th 
