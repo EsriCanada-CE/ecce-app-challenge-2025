@@ -9,7 +9,7 @@ Here is the main page:
 ![Layout](Images/full_page.png)
 
 1. Header - contains links to our site, user guide, and github pages, click on the buttons to interact. ![header](Images/header.png) 
-2. Indices bar - click on each button to flip between the indices. ![indices](Images/indices.png)
+2. Indices bar - click on each button to flip between the indices. ![indices](../images/indices.png)
 3. Map - Main map, displays the indices, has a search bar to search for addresses, can zoom in and out, and return to initial extent. The user can select an individual census tract or dissemination area by clicking on the map. ![map](Images/map.png)
 4. Index - contains a short explanation for each index, for the user to better understand what they are looking at. ![index_expl](Images/index_explanation.png)
 5. Legend - shows how values are mapped visually. <br>  ![legend](Images/legend.png)
