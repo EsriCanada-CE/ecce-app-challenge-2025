@@ -20,7 +20,7 @@ Hover over the chart to view the breakdown of the information. <br> ![Image](htt
 
 ## Additional information
 
-The Accessibility Index section contains a buildings view, which has the accessibility index value for each building in the city. When the user selects on a census tract or dissemination area: <br> ![accessibility_select](../images/ai_select.png) <br><br> They can click on switch to buildings view:<br>![buildings view button](Images/buildings_1.png) <br><br> And the tool will zoom into whichever area they selected to show the buildings in it:<br> ![buildings_zoom](../images/buildings_2.png)  
+The Accessibility Index section contains a buildings view, which has the accessibility index value for each building in the city. When the user selects on a census tract or dissemination area: <br> ![accessibility_select](../images/ai_select.png) <br><br> They can click on switch to buildings view:<br>![buildings view button](../images/buildings_1.png) <br><br> And the tool will zoom into whichever area they selected to show the buildings in it:<br> ![buildings_zoom](../images/buildings_2.png)  
 
 
 
