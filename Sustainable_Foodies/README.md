@@ -178,27 +178,26 @@ Users can view the different index values for the current dissemination areas wi
 ### Video Sources
 * [Walking Icon](https://pngtree.com/so/walking-icon)
 * [Time-Lapse Video-of a Person Pushing the Grocery Cart](https://www.pexels.com/video/time-lapse-video-of-a-person-pushing-the-grocery-cart-4309734/)
-* [High Angle Shot of Vegetables] (https://www.pexels.com/video/high-angle-shot-of-vegetables-5866122/)
-* [Woman Serving Food For The Group] (https://www.pexels.com/video/woman-serving-food-for-the-group-3760750/)
+* [High Angle Shot of Vegetables](https://www.pexels.com/video/high-angle-shot-of-vegetables-5866122/)
+* [Woman Serving Food For The Group](https://www.pexels.com/video/woman-serving-food-for-the-group-3760750/)
 * [Time Lapse Video Of Vancouver City In A Day's Time](https://www.pexels.com/video/city-clouds-haze-travel-4265473/)
-* [High Angle Shot of Vegetables] (https://www.pexels.com/video/high-angle-shot-of-vegetables-5866122/)
-* [Soup Plate Full of Coins] (https://www.pexels.com/video/soup-plate-full-of-coins-6764575/)
-* [Coins Issued From Different Countries] (https://www.pexels.com/video/hand-rich-money-gold-3943971/ )
-* [Aerial View of Surrey Cityscape with Skyscrapers] (https://www.pexels.com/video/aerial-view-of-surrey-cityscape-with-skyscrapers-28939455/ )
-* [Free Food] (https://www.pexels.com/video/free-food-6893784/)
-* [Person Packing Food] (https://www.pexels.com/video/person-packing-food-6894088/ )
+* [High Angle Shot of Vegetables](https://www.pexels.com/video/high-angle-shot-of-vegetables-5866122/)
+* [Soup Plate Full of Coins](https://www.pexels.com/video/soup-plate-full-of-coins-6764575/)
+* [Coins Issued From Different Countries](https://www.pexels.com/video/hand-rich-money-gold-3943971/ )
+* [Aerial View of Surrey Cityscape with Skyscrapers](https://www.pexels.com/video/aerial-view-of-surrey-cityscape-with-skyscrapers-28939455/ )
+* [Free Food](https://www.pexels.com/video/free-food-6893784/)
+* [Person Packing Food](https://www.pexels.com/video/person-packing-food-6894088/ )
 
 ### Photos
-* [SDG Week] (https://www.niagaracollege.ca/insidenc/2023/03/10/sdg-week-canada-increases-awareness-of-17-sustainable-development-goals/)
-* [United Nations Sustainable Development Goals] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fun-sdgs.mcmaster.ca%2Fgoals%2Fgoal-2-zero-hunger%2F&psig=AOvVaw26Vc7tM3LT7OpyhidZcXN2&ust=1743467142025000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCPiYnq-Hs4wDFQAAAAAdAAAAABAJ) 
-* [Question Marks on Craft Paper] (https://www.pexels.com/photo/question-marks-on-craft-paper-5428830/) 
-* [Colorful Plastic Fork and Bowl] (https://www.pexels.com/photo/colorful-plastic-fork-and-bowl-over-a-wooden-table-7123557/) 
+* [SDG Week](https://www.niagaracollege.ca/insidenc/2023/03/10/sdg-week-canada-increases-awareness-of-17-sustainable-development-goals/)
+* [United Nations Sustainable Development Goals](https://www.google.com/url?sa=i&url=https%3A%2F%2Fun-sdgs.mcmaster.ca%2Fgoals%2Fgoal-2-zero-hunger%2F&psig=AOvVaw26Vc7tM3LT7OpyhidZcXN2&ust=1743467142025000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCPiYnq-Hs4wDFQAAAAAdAAAAABAJ) 
+* [Question Marks on Craft Paper](https://www.pexels.com/photo/question-marks-on-craft-paper-5428830/) 
+* [Colorful Plastic Fork and Bowl](https://www.pexels.com/photo/colorful-plastic-fork-and-bowl-over-a-wooden-table-7123557/) 
 
 ### Inspiration
-* [Vancouver Food Asset Map] (https://www.google.com/maps/d/viewer?mid=1XEmhBp-1P0xxH7ZPFMc76sBFb2U&ll=49.261108757904346%2C-123.06872792387054&z=13) 
-* [Community Food Resources] (https://cosmos.surrey.ca/external/tools/CommunityFarmsAndFood/?_gl=1*1pct1n4*_gcl_au*MzUxMzIxOTA4LjE3NDI4NDQ2MDQ.*_ga*NDExNjI4MDk3LjE3NDI4NDQ2MDQ.*_ga_L5CPYH78W6*MTc0Mjg0NDYwMy4xLjEuMTc0Mjg0NDYyNC4zOS4wLjA.*_ga_SQQXD1G49W*MTc0Mjg0NDYwMy4xLjEuMTc0Mjg0NDYyMy40MC4wLjA)
-* [Free and Low Cost Food Programs in Vancouver]
-(https://vancouver.ca/files/cov/emergency-meal-program-map.pdf) 
+* [Vancouver Food Asset Map](https://www.google.com/maps/d/viewer?mid=1XEmhBp-1P0xxH7ZPFMc76sBFb2U&ll=49.261108757904346%2C-123.06872792387054&z=13) 
+* [Community Food Resources](https://cosmos.surrey.ca/external/tools/CommunityFarmsAndFood/?_gl=1*1pct1n4*_gcl_au*MzUxMzIxOTA4LjE3NDI4NDQ2MDQ.*_ga*NDExNjI4MDk3LjE3NDI4NDQ2MDQ.*_ga_L5CPYH78W6*MTc0Mjg0NDYwMy4xLjEuMTc0Mjg0NDYyNC4zOS4wLjA.*_ga_SQQXD1G49W*MTc0Mjg0NDYwMy4xLjEuMTc0Mjg0NDYyMy40MC4wLjA)
+* [Free and Low Cost Food Programs in Vancouver](https://vancouver.ca/files/cov/emergency-meal-program-map.pdf) 
 
 ### Literature Sources
 [(1) https://unosd.un.org/content/sustainable-development-goals-sdgs](https://unosd.un.org/content/sustainable-development-goals-sdgs)
